@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm abtzpro AKA Adam Rivers</h1>
-<h3 align="center">A passionate developer of all things cybersecurity and infosecurity. I double as the CEO and founder of Hello Security LLC, an remote/hybrid vCISO and consultancy agency. I have spent the last decade in the fields of cybersecurity and development, experiencing all facets of the SMB, Enterpise, and even fortune 2000 cybersecurity markets. I’ve worked at, or collaborated with in the past, companies such as Tesla, Sinespace, LindenLab, ReforgedGames, and more.</h3>
+<h3 align="center">A passionate developer of all things cybersecurity and infosecurity. I double as the CEO and founder of Hello Security LLC, a remote/hybrid vCISO and consultancy agency. I have spent the last decade in the fields of cybersecurity and development, experiencing all facets of the SMB, Enterpise, and even fortune 2000 cybersecurity markets. I’ve worked at, or collaborated with in the past, companies such as Tesla, Sinespace, LindenLab, ReforgedGames, and more.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abtzpro" alt="abtzpro" /></a> </p>
 
