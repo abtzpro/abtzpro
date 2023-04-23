@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abtzpro" alt="abtzpro" /></a> </p>
 
-- 🔭 I’m currently working on [SocialCloak](https://github.com/abtzpro/SocialCloak)
+- 🔭 I’m currently working on [SocialCloak](https://github.com/abtzpro/SocialCloak) an open source PII scrubber for Facebook and Twitter.
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👯 I’m looking to collaborate on [SimpleSEIM](https://github.com/abtzpro/SimpleSEIM)
+- 👯 I’m looking to collaborate on [SimpleSEIM](https://github.com/abtzpro/SimpleSEIM) an open source, simplistic yet modular, SEIM. 
 
-- 🤝 I’m looking for help with [SafetyChex](https://github.com/abtzpro/SafetyChex)
+- 🤝 I’m looking for help with [SafetyChex](https://github.com/abtzpro/SafetyChex) an open source IOC scanner that scans an endpoint against all publicly known IOC available online through major security providers which attempts automatic remediation if possible.
 
 - 👨‍💻 All of my projects are available at [https://github.com/abtzpro](https://github.com/abtzpro)
 
