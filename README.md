@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact **I live, eat, and sleep anything cybersecurity. Seriously, my free time is spent, developing, researching, and tinkering.**
 
+- ⚡ Fun fact **I am a long since reformed blackhat that earned the original handle of @HammerOfJustice and took the handle @abtzpro as a reformed and dedicated ethical penetration tester, bounty hunter,  and developer, with an unshakable moral compass**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adam-r-004559168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-r-004559168" height="30" width="40" /></a>
