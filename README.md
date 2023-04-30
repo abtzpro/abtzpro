@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abtzpro" alt="abtzpro" /></a> </p>
 
-- 🔭 I’m currently working on [SocialCloak](https://github.com/abtzpro/SocialCloak) an open source PII scrubber for Facebook and Twitter.
+- 🔭 I’m currently working on [AutoAudit](https://github.com/abtzpro/auto_audit) An Open-Source Automated Enterprise Security Audit.
 
 - 🌱 I’m currently learning **Kotlin**
 
