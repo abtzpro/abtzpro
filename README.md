@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python, LSL, AI, Nueral Networks, or Machine Learning Algorithms**
 
-- 📫 How to reach me **hellosec7409@gmail.com**
+- 📫 How to reach me [My Professional Portfolio](https://abtzpro.github.io)
 
 - 📄 Know about my experiences [https://profile.indeed.com/p/adamr-4wmh39q](https://profile.indeed.com/p/adamr-4wmh39q)
 
