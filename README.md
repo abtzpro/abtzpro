@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abtzpro" alt="abtzpro" /></a> </p>
 
-- 🔭 I’m currently working on [AutoAudit](https://github.com/abtzpro/auto_audit) An Open-Source Automated Enterprise Security Audit.
+- 🔭 I’m currently working on [NewKid LLM](https://github.com/abtzpro/NewKid-LLM) An Open-Source, Modular, Scalable and Customizable LLM 
 
 - 🌱 I’m currently learning **Kotlin**
 
 - 👯 I’m looking to collaborate on [SimpleSEIM](https://github.com/abtzpro/SimpleSEIM) an open source, simplistic yet modular, SEIM. 
 
-- 🤝 I’m looking for help with [SafetyChex](https://github.com/abtzpro/SafetyChex) an open source IOC scanner that scans an endpoint against all publicly known IOC available online through major security providers which attempts automatic remediation if possible.
+- 🤝 I’m looking for help with [Q-AID Qauntum AI](https://github.com/abtzpro/Q-AID) a hybrid quantum-classical machine learning model known as a Variational Quantum Classifier (VQC).It leverages the power of quantum computers to process and identify patterns in the dataset that may not be easily discernable with classical computing methods.
 
 - 👨‍💻 All of my projects are available at [https://github.com/abtzpro](https://github.com/abtzpro)
 
 - 📝 I regularly write articles on (Cybersecurity events and current cybersecurity insights regarding the SMB and Enterpise markets)
 
-- 💬 Ask me about **Python, or LSL**
+- 💬 Ask me about **Python, LSL, AI, Nueral Networks, or Machine Learning Algorithms**
 
 - 📫 How to reach me **hellosec7409@gmail.com**
 
