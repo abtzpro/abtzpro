@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👯 I’m looking to collaborate on [SimpleSEIM](https://github.com/abtzpro/SimpleSEIM) an open source, simplistic yet modular, SEIM. 
+- 👯 I’m looking to collaborate on [Alfred](https://github.com/abtzpro/Alfred) An Open Source Cybersecurity Oriented Quantum AI | QML | QNN. 
 
 - 🤝 I’m looking for help with [Q-AID Qauntum AI](https://github.com/abtzpro/Q-AID) a hybrid quantum-classical machine learning model known as a Variational Quantum Classifier (VQC).It leverages the power of quantum computers to process and identify patterns in the dataset that may not be easily discernable with classical computing methods.
 
