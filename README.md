@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm abtzpro AKA Adam Rivers</h1>
-<h3 align="center">A passionate developer of all things cybersecurity and infosecurity. I double as the CEO and founder of Hello Security LLC, a remote/hybrid vCISO and consultancy agency. I have spent the last decade and a half in the fields of cybersecurity, infosecurity, and development. Experiencing all facets of the SMB, Enterpise, and even fortune 2000 cybersecurity markets. I’ve worked at, or collaborated with in the past, companies such as Tesla, Sinespace, LindenLab, ReforgedGames, and more.</h3>
+<h3 align="center">A passionate developer of all things cybersecurity and infosecurity. I double as the CEO and founder of Hello Security LLC, a remote/hybrid vCISO and consultancy agency. 
+I have spent the last decade and a half in the fields of cybersecurity, infosecurity, and development. Experiencing all facets of the SMB, Enterpise, and even fortune 2000 cybersecurity markets. I’ve worked at, or collaborated with in the past, companies such as Tesla, Sinespace, LindenLab, ReforgedGames, and more.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abtzpro" alt="abtzpro" /></a> </p>
 
@@ -9,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Alfred](https://github.com/abtzpro/Alfred) An Open Source Cybersecurity Oriented Quantum AI | QML | QNN. 
 
-- 🤝 I’m looking for help with [Q-AID Qauntum AI](https://github.com/abtzpro/Q-AID) a hybrid quantum-classical machine learning model known as a Variational Quantum Classifier (VQC).It leverages the power of quantum computers to process and identify patterns in the dataset that may not be easily discernable with classical computing methods.
+- 🤝 I’m looking for help with [Q-AID Qauntum AI](https://github.com/abtzpro/Q-AID) a hybrid quantum-classical machine learning model known as a Variational Quantum Classifier (VQC). It leverages the power of quantum computers to process and identify patterns in the dataset that may not be easily discernable with classical computing methods.
 
 - 👨‍💻 All of my projects are available at [https://github.com/abtzpro](https://github.com/abtzpro)
 
@@ -19,9 +20,9 @@
 
 - 📫 How to reach me [My Professional Portfolio](https://abtzpro.github.io)
 
-- 📄 Know about my experiences [https://profile.indeed.com/p/adamr-4wmh39q](https://profile.indeed.com/p/adamr-4wmh39q)
+- 📄 Want To Hire Me? Here's My Resume. [https://profile.indeed.com/p/adamr-4wmh39q](https://profile.indeed.com/p/adamr-4wmh39q)
 
-- ⚡ Fun fact **I live, eat, and sleep anything cybersecurity. Seriously, my free time is spent, developing, researching, and tinkering.**
+- ⚡ Fun fact **I live, eat, and sleep anything cyber, IT, or Tech. My free time is spent, developing, researching, and tinkering. I rarely watch tv or play games. I prefer to develop, defend, or learn instead. Friends will oft refer to me as "The Digital Robin Hood" or "The Mad Scientist"**
 
 - ⚡ Fun fact **I am a long since reformed blackhat that earned the original handle of @HammerOfJustice and took the handle @abtzpro as a reformed and dedicated ethical penetration tester, bounty hunter,  and developer, with an unshakable moral compass**
 
