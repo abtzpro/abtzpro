@@ -5,7 +5,7 @@
   
 <h3 align="center">I’ve worked at, or collaborated with in the past, companies such as Tesla, Sinespace, LindenLab, ReforgedGames, and more.</h3>
 
-<h3 align="center">I am the creator of functional quantum AI and an avid developer of all things AI, nueral networks, Machine learning, MLAs, LLMs, dataset teaining methodologies or otherwise. If it's cybersecurity or AI, I'm your guy. </h3> 
+<h3 align="center">I am the creator of functional quantum AI and an avid developer of all things AI, nueral networks, machine learning, MLAs, LLMs, dataset teaining methodologies or otherwise. If it's cybersecurity or AI, I'm your guy. </h3> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abtzpro" alt="abtzpro" /></a> </p>
 
