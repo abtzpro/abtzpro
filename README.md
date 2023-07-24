@@ -26,6 +26,18 @@ I have spent the last decade and a half in the fields of cybersecurity, infosecu
 
 - ⚡ Fun fact **I am a long since reformed blackhat that earned the original handle of @HammerOfJustice and took the handle @abtzpro as a reformed and dedicated ethical penetration tester, bounty hunter,  and developer, with an unshakable moral compass**
 
+<h2 align="center"> Fair Use Disclaimer
+</h2>
+- While I am thrilled to share my research, and I am dedicated to the open-source ethos that promotes the collaborative advancement of technology, I kindly remind all individuals, researchers, developers, and organizations intending to utilize my methodologies and research that they embody significant effort, time, and intellectual investment.
+
+- Organizations regardless of their stature or resources, should respect the nature of this work and the principles of fair acknowledgment and reciprocity. Even though my work is shared openly and hosted on public platforms like GitHub, it is not an invitation to use without proper recognition or a reminder of the obligation to acknowledge and compensate for its usage.
+
+- The utilization of my work should be seen as a partnership. I encourage any party planning to benefit commercially from my research to engage in dialogue with me regarding possible collaborations, partnerships, or licensing arrangements. Not only is this respectful and fair, but it also fosters an environment of mutual growth and innovation.
+
+- Remember, open-source is about community and collaboration. Respect for each other’s work and effort goes a long way in ensuring a vibrant, innovative, and healthy open-source ecosystem.
+
+- Thank you for understanding and adhering to these guidelines as we together push the boundaries of quantum computing, AI development, and cybersecurity as a whole.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adam-r-004559168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-r-004559168" height="30" width="40" /></a>
