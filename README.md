@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm abtzpro AKA Adam Rivers</h1>
-<h3 align="center">A passionate developer of all things cybersecurity and infosecurity. I double as the CEO and founder of Hello Security LLC, a remote/hybrid vCISO and consultancy agency. 
-I have spent the last decade and a half in the fields of cybersecurity, infosecurity, leadership, Red Team, Offensive security, and SaaS development. Experiencing all facets of the SMB, Enterpise, and even fortune 2000 cybersecurity markets. I’ve worked at, or collaborated with in the past, companies such as Tesla, Sinespace, LindenLab, ReforgedGames, and more.</h3>
+<h1 align="center">Hi 👋, I'm abtzpro AKA Adam Rivers</h1> 
+<h3 align="center">A passionate developer of all things cybersecurity and infosecurity. I double as the CEO and founder of Hello Security LLC, a remote/hybrid vCISO and consultancy agency.</h3>
+
+<h3 align="center">I have spent the last decade and a half in the fields of cybersecurity, infosecurity, leadership, Red Team, Offensive security, and SaaS development. Experiencing all facets of the SMB, Enterpise, and even fortune 2000 cybersecurity markets. </h3>
+  
+<h3 align="center">I’ve worked at, or collaborated with in the past, companies such as Tesla, Sinespace, LindenLab, ReforgedGames, and more.</h3>
+
+<h3 align="center">I am the creator of functional quantum AI and an avid developer of all things AI, nueral networks, Machine learning, MLAs, LLMs, dataset teaining methodologies or otherwise. If it's cybersecurity or AI, I'm your guy. </h3> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abtzpro" alt="abtzpro" /></a> </p>
 
